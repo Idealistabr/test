@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Waterfall');
+@import url('https://fonts.googleapis.com/css?family=Secular+One');
+@import url('https://fonts.googleapis.com/css?family=Kanit:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Island+Moments');
+@import url('https://fonts.googleapis.com/css?family=Sansita%20Swashed');
+@import url('https://fonts.googleapis.com/css?family=Dr+Sugiyama&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+@font-face { font-family: 'Steal'; src: url('https://cdn.glitch.me/df72e925-5da1-4a58-bb86-25b4e6d5bc73/fontSteal.ttf?v=1641263318688'); }
+@font-face { font-family: 'Japones'; src: url('https://cdn.glitch.global/af392c3f-c6b5-4379-9894-2765704b948d/font11.ttf?v=1647907896316'); }
+
+.font-1 { font-family: 'Waterfall', sans-serif !important; }
+.font-2 { font-family: 'Secular One', sans-serif !important; }
+.font-3 { font-family: 'Kanit', sans-serif !important; }
+.font-4 { font-family: 'Island Moments', sans-serif !important; }
+.font-5 { font-family: 'Sansita Swashed', sans-serif !important; }
+.font-6 { font-family: 'Steal', sans-serif !important; }
+.font-7 { font-family: 'Dr Sugiyama', sans-serif !important; }
+.font-8 { font-family: 'Kalam', cursive !important; }
+.font-9 { font-family: 'Kaushan Script', cursive !important; }
+.font-10 { font-family: 'Hurricane', cursive !important; }
+.font-11 { font-family: 'Japones', sans-serif !important; }
+
+.background-main {
+  background: url('https://cdn.glitch.me/df72e925-5da1-4a58-bb86-25b4e6d5bc73/wallpaper-stars.gif?v=1641254653832'), url('https://cdn.glitch.me/df72e925-5da1-4a58-bb86-25b4e6d5bc73/wallpaper-universe.png?v=1641254977778') center center; 
+  -moz-background-size: auto, cover;
+  -o-background-size: auto, cover;
+  background-size: auto, cover;
+  height: 100%;
+  width: 100%;
+  opacity: 0.6;
+}
+
+.navbarColor:hover {
+  color: red;
+  border-bottom: 0.3vh solid red;
+  transition: 0.5s;
+}
+
+body {
+  background-color: black;
+  color: white;
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+  height: 200%;
+}
